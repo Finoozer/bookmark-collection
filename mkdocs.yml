@@ -1,0 +1,6 @@
+site_name: Bookmark Collection
+# site_url: finoozer.github.io
+theme: windmill-dark
+
+nav:
+    - Home: index.md
