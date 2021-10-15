@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+---
+hide:
+  - navigation
+  - toc
+---
+# Bookmark Hall
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## The *why*
+ - Too much crap piling up in my email newsletter directory
+ - Too many "sort later" folders in my bookmarks
+ - Boredom
 
-## Commands
+## The *why make it public*
+ - It could help someone.. I guess
+ - Maybe you've got something to share
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## The *how can I help*
+ - Suggest a link by clicking on the :material-pencil: button in the upper right corner or [Twitter DM](https://twitter.com/finoozer)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## The ...
+ - See [FAQ](https://Finoozer.github.io/bookmark-collection/faq)
