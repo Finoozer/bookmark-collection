@@ -1,3 +1,1 @@
 # Technology
-
-## Topics
