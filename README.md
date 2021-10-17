@@ -6,5 +6,5 @@ TODO
 -   [ ] add RSS feeds
 -   [ ] changelog
 -   [ ] add descriptions
--   [ ] cross reference podcasts in specific categories
--   [ ] fix links in Read
+-   [x] cross reference podcasts in specific categories
+-   [x] fix links in Read

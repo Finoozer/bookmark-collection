@@ -33,3 +33,7 @@
 - [replit](https://replit.com/)
 
     Similar to glot.io
+
+## Fonts
+
+- [Google Fonts](https://fonts.google.com/)

@@ -33,3 +33,22 @@
 - [SpeedGuide IP Lookup](https://www.speedguide.net/ip/)
 
     Geographic IP locater with WHOIS and traceroute integrations
+
+## Windows
+
+### Software
+
+- [Debloat Windows](https://www.christitus.com/debloat-windows-10-2020/)
+- [Ninite](https://ninite.com/)
+
+    Install and Update All Your Programs at Once
+
+## Linux
+
+### Cheat Sheets
+
+- [21 Best Linux Command Cheat Sheets For Free](https://itsfoss.com/linux-commands-cheat-sheets/)
+
+### Other
+
+- [Derek Taylor's Dotfiles](https://gitlab.com/dwt1/dotfiles)

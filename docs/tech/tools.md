@@ -55,12 +55,6 @@ Basically everything that solves a specific problem falls into this category. In
 
     Everything you need to know about Steam. Game stats, server stats, prices, charts, patch notes.
 
-## Encryption 
-
--   [dCode](https://www.dcode.fr/tools-list#cryptography)
-
-    Cipher encryption / decryption / identifier.
-
 ## Other
 
 -   [TinyPNG](https://tinypng.com/)

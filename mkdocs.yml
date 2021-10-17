@@ -74,6 +74,7 @@ nav:
       - Watch: infosec/watch.md
       - Listen: infosec/listen.md
       - News: infosec/news.md
+      - Tools: infosec/tools.md
     - SysAdmin:
       - Read: sysadmin/read.md
       - Watch: sysadmin/watch.md
@@ -84,10 +85,11 @@ nav:
       - Read: ee/read.md
       - Watch: ee/watch.md
       - Listen: ee/listen.md
+      - Tools: ee/tools.md
     - 3D Printing/CAD:
       - Read: 3d/read.md
       - Watch: 3d/watch.md
-      - Listen: 3d/listen.md
+      - Tools: 3d/tools.md
     - FAQ:
       - faq.md
     - Changelog:
