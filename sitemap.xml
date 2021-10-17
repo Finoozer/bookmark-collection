@@ -16,12 +16,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/3d/listen/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/3d/read/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/3d/read/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/3d/tools/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -81,6 +81,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://finoozer.github.io/bookmark-collection/ee/tools/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://finoozer.github.io/bookmark-collection/ee/watch/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
@@ -97,6 +102,11 @@
     </url>
     <url>
          <loc>https://finoozer.github.io/bookmark-collection/infosec/read/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/infosec/tools/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
