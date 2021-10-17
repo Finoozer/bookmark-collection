@@ -68,7 +68,9 @@ nav:
       - Languages:
         - Javascript: coding/langs/js.md
         - HTML: coding/langs/html.md
+        - CSS: coding/langs/css.md
         - Python: coding/langs/python.md
+        - C#: coding/langs/csharp.md
     - InfoSec:
       - Read: infosec/read.md
       - Watch: infosec/watch.md

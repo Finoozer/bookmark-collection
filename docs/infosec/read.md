@@ -2,6 +2,10 @@
 
 - [Darknet Diaries Book Recommandation List](https://darknetdiaries.com/books/)
 
+## Articles
+
+- [How to stay safe on the Internet: it’s proxy servers all the way down](https://www.freecodecamp.org/news/how-apps-stay-safe/)
+
 ## Guides
 
 - [Null Byte](https://null-byte.wonderhowto.com/)

@@ -8,6 +8,14 @@
 
     Geared more towards common technical interview questions and expanding knowledge level.
 
+- [Project Euler](https://projecteuler.net/archives)
+
+    *Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.*
+
+- [CodinGame](https://www.codingame.com/start)
+
+    Try *Clash of Code* mode - battle against your friends in problem solving tasks.
+
 ## Inspiration
 
 - [Clone Wars](https://gourav.io/clone-wars)
@@ -24,6 +32,8 @@
 
     Similar to VisuAlgo
 
+- [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
+
 ## In-browser code execution
 
 - [glot.io](https://glot.io/)
@@ -37,3 +47,13 @@
 ## Fonts
 
 - [Google Fonts](https://fonts.google.com/)
+
+## Developer Portals
+
+- [Discord Dev Portal](https://discord.com/developers/applications/)
+
+## Standards
+
+- [XMPP](https://xmpp.org/)
+- [IETF](https://www.ietf.org/standards/)
+- 

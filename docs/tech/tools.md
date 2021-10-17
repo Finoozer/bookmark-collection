@@ -55,6 +55,17 @@ Basically everything that solves a specific problem falls into this category. In
 
     Everything you need to know about Steam. Game stats, server stats, prices, charts, patch notes.
 
+## Graphics
+
+- [Figma](https://www.figma.com/)
+
+    *Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.*
+
+- [Flat UI Colors](https://flatuicolors.com/)
+- [FlatIcon](https://www.flaticon.com/)
+
+    Free icons in PNG, SVG, EPS, PSD and BASE 64 formats
+
 ## Other
 
 -   [TinyPNG](https://tinypng.com/)
@@ -65,15 +76,7 @@ Basically everything that solves a specific problem falls into this category. In
 
     *CheckShortURL is an expand link facility: it allows you to retrieve the original URL from a shortened link before clicking on it and visiting the destination.*
 
-    
+- [PDF Escape](https://www.pdfescape.com/windows/)
 
-
-
-
-
-
-
-
-
-
+    *Free online PDF editor & form filler*
 

@@ -16,6 +16,10 @@
 - [Important Linux Commands](https://www-uxsup.csx.cam.ac.uk/pub/doc/suse/suse9.0/userguide-9.0/ch24s04.html)
 - [Command Line Arguments in Linux Shell Scripting](https://www.linuxtechi.com/command-line-arguments-in-linux-shell-scripting/)
 
+### Articles
+
+- [5 Awesome Terminal Tricks to Help You Level Up as a Developer](https://www.freecodecamp.org/news/terminal-tricks/)
+
 ## Windows
 
 ## Raspberry Pi

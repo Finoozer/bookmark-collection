@@ -1,10 +1,12 @@
 TODO
 
--   [ ] add all bookmarks
--   [ ] add all newsletter posts
--   [ ] FAQ
--   [ ] add RSS feeds
--   [ ] changelog
--   [ ] add descriptions
--   [x] cross reference podcasts in specific categories
 -   [x] fix links in Read
+-   [x] add all bookmarks
+-   [ ] add RSS feeds
+-   [ ] add podcasts
+-   [ ] FAQ
+-   [ ] add Windows software
+-   [ ] add YT channels
+-   [ ] add descriptions
+-   [ ] add all newsletter posts
+-   [ ] changelog
