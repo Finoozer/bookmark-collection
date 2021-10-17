@@ -2,6 +2,7 @@ site_name: Finoozer's Bookmark Collection
 site_url: https://finoozer.github.io/bookmark-collection/
 repo_url: https://github.com/Finoozer/bookmark-collection/
 repo_name: Finoozer/bookmark-collection
+edit_uri: edit/main/docs/
 site_description: Smol bookmark collection, nothing important
 
 plugins:
