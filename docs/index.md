@@ -20,7 +20,7 @@ hide:
 
 ## The *what next*
 
--   Look at the navbar and choose one of the topics or start with the "Learn" section to get an idea of what you can find here
+-   Choose one of the topics from the navbar
 
 ## The ...
 
