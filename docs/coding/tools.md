@@ -56,4 +56,3 @@
 
 - [XMPP](https://xmpp.org/)
 - [IETF](https://www.ietf.org/standards/)
-- 
