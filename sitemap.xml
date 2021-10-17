@@ -16,37 +16,77 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/3d/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/3d/listen/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/coding/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/3d/read/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/coding/html/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/3d/watch/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/coding/js/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/courses/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/coding/python/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/listen/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/ee/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/read/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/infosec/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/tools/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/watch/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/langs/html/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/langs/js/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/coding/langs/python/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/ee/listen/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/ee/read/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/ee/watch/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/infosec/listen/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -56,52 +96,47 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/learn/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/infosec/read/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/learn/courses/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/infosec/watch/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/learn/podcasts/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/sysadmin/listen/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/learn/read/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/sysadmin/news/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/learn/watch/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/sysadmin/read/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/os/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/sysadmin/tools/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/os/linux/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/sysadmin/watch/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/os/macos/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/tech/courses/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://finoozer.github.io/bookmark-collection/os/windows/</loc>
-         <lastmod>2021-10-17</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://finoozer.github.io/bookmark-collection/tech/</loc>
+         <loc>https://finoozer.github.io/bookmark-collection/tech/listen/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -111,7 +146,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://finoozer.github.io/bookmark-collection/tech/read/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://finoozer.github.io/bookmark-collection/tech/tools/</loc>
+         <lastmod>2021-10-17</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://finoozer.github.io/bookmark-collection/tech/watch/</loc>
          <lastmod>2021-10-17</lastmod>
          <changefreq>daily</changefreq>
     </url>

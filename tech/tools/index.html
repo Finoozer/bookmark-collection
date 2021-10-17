@@ -211,22 +211,6 @@
         
   
   
-
-
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../../learn/" class="md-tabs__link">
-        Learn
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
     
   
 
@@ -235,7 +219,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../" class="md-tabs__link md-tabs__link--active">
+      <a href="../read/" class="md-tabs__link md-tabs__link--active">
         Tech
       </a>
     </li>
@@ -251,7 +235,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../coding/" class="md-tabs__link">
+      <a href="../../coding/read/" class="md-tabs__link">
         Coding
       </a>
     </li>
@@ -267,7 +251,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../infosec/" class="md-tabs__link">
+      <a href="../../infosec/read/" class="md-tabs__link">
         InfoSec
       </a>
     </li>
@@ -283,8 +267,8 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../os/" class="md-tabs__link">
-        OSes
+      <a href="../../sysadmin/read/" class="md-tabs__link">
+        SysAdmin
       </a>
     </li>
   
@@ -299,7 +283,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../ee/" class="md-tabs__link">
+      <a href="../../ee/read/" class="md-tabs__link">
         Electrical Engineering
       </a>
     </li>
@@ -315,7 +299,7 @@
   
   
     <li class="md-tabs__item">
-      <a href="../../3d/" class="md-tabs__link">
+      <a href="../../3d/read/" class="md-tabs__link">
         3D Printing/CAD
       </a>
     </li>
@@ -420,18 +404,18 @@
 
   
   
+    
+  
   
     
-    <li class="md-nav__item md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_2" type="checkbox" id="__nav_2" checked>
       
       
       
         
-          
-            
           
         
           
@@ -442,28 +426,21 @@
         
           
         
-      
-      
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../../learn/">Learn</a>
           
-            <label for="__nav_2">
-              <span class="md-nav__icon md-icon"></span>
-            </label>
-          
-        </div>
+        
       
-      <nav class="md-nav" aria-label="Learn" data-md-level="1">
+      
+        <label class="md-nav__link" for="__nav_2">
+          Tech
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Tech" data-md-level="1">
         <label class="md-nav__title" for="__nav_2">
           <span class="md-nav__icon md-icon"></span>
-          Learn
+          Tech
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
-          
-            
-            
           
             
               
@@ -471,7 +448,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../learn/read/" class="md-nav__link">
+      <a href="../read/" class="md-nav__link">
         Read
       </a>
     </li>
@@ -485,7 +462,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../learn/watch/" class="md-nav__link">
+      <a href="../watch/" class="md-nav__link">
         Watch
       </a>
     </li>
@@ -499,8 +476,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../../learn/podcasts/" class="md-nav__link">
-        Podcasts
+      <a href="../listen/" class="md-nav__link">
+        Listen
       </a>
     </li>
   
@@ -513,67 +490,12 @@
   
   
     <li class="md-nav__item">
-      <a href="../../learn/courses/" class="md-nav__link">
+      <a href="../courses/" class="md-nav__link">
         Courses
       </a>
     </li>
   
 
-            
-          
-        </ul>
-      </nav>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-    
-  
-  
-    
-    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
-      
-      
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
-      
-      
-      
-        
-          
-            
-          
-        
-          
-        
-          
-        
-      
-      
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../">Tech</a>
-          
-            <label for="__nav_3">
-              <span class="md-nav__icon md-icon"></span>
-            </label>
-          
-        </div>
-      
-      <nav class="md-nav" aria-label="Tech" data-md-level="1">
-        <label class="md-nav__title" for="__nav_3">
-          <span class="md-nav__icon md-icon"></span>
-          Tech
-        </label>
-        <ul class="md-nav__list" data-md-scrollfix>
-          
-            
             
           
             
@@ -652,13 +574,6 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#connection-sysadmin" class="md-nav__link">
-    Connection / Sysadmin
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
   <a href="#share" class="md-nav__link">
     Share
   </a>
@@ -712,13 +627,15 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
       
       
       
         
           
-            
+        
+          
+        
           
         
           
@@ -729,25 +646,30 @@
         
       
       
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../../coding/">Coding</a>
-          
-            <label for="__nav_4">
-              <span class="md-nav__icon md-icon"></span>
-            </label>
-          
-        </div>
+        <label class="md-nav__link" for="__nav_3">
+          Coding
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <nav class="md-nav" aria-label="Coding" data-md-level="1">
-        <label class="md-nav__title" for="__nav_4">
+        <label class="md-nav__title" for="__nav_3">
           <span class="md-nav__icon md-icon"></span>
           Coding
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../coding/read/" class="md-nav__link">
+        Read
+      </a>
+    </li>
+  
+
             
           
             
@@ -756,7 +678,99 @@
   
   
     <li class="md-nav__item">
-      <a href="../../coding/js/" class="md-nav__link">
+      <a href="../../coding/watch/" class="md-nav__link">
+        Watch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../coding/listen/" class="md-nav__link">
+        Listen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../coding/courses/" class="md-nav__link">
+        Courses
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../coding/tools/" class="md-nav__link">
+        Tools
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_6" type="checkbox" id="__nav_3_6" >
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_3_6">
+          Languages
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Languages" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Languages
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../coding/langs/js/" class="md-nav__link">
         Javascript
       </a>
     </li>
@@ -770,7 +784,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../coding/html/" class="md-nav__link">
+      <a href="../../coding/langs/html/" class="md-nav__link">
         HTML
       </a>
     </li>
@@ -784,9 +798,16 @@
   
   
     <li class="md-nav__item">
-      <a href="../../coding/python/" class="md-nav__link">
+      <a href="../../coding/langs/python/" class="md-nav__link">
         Python
       </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
     </li>
   
 
@@ -809,38 +830,73 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
       
       
       
         
           
-            
+        
+          
+        
           
         
           
         
       
       
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../../infosec/">InfoSec</a>
-          
-            <label for="__nav_5">
-              <span class="md-nav__icon md-icon"></span>
-            </label>
-          
-        </div>
+        <label class="md-nav__link" for="__nav_4">
+          InfoSec
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <nav class="md-nav" aria-label="InfoSec" data-md-level="1">
-        <label class="md-nav__title" for="__nav_5">
+        <label class="md-nav__title" for="__nav_4">
           <span class="md-nav__icon md-icon"></span>
           InfoSec
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../infosec/read/" class="md-nav__link">
+        Read
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../infosec/watch/" class="md-nav__link">
+        Watch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../infosec/listen/" class="md-nav__link">
+        Listen
+      </a>
+    </li>
+  
+
             
           
             
@@ -874,16 +930,128 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          SysAdmin
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="SysAdmin" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          SysAdmin
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sysadmin/read/" class="md-nav__link">
+        Read
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sysadmin/watch/" class="md-nav__link">
+        Watch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sysadmin/listen/" class="md-nav__link">
+        Listen
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sysadmin/news/" class="md-nav__link">
+        News
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sysadmin/tools/" class="md-nav__link">
+        Tools
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
         <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
       
       
       
         
           
-            
-          
-        
-          
         
           
         
@@ -891,35 +1059,26 @@
         
       
       
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../../os/">OSes</a>
-          
-            <label for="__nav_6">
-              <span class="md-nav__icon md-icon"></span>
-            </label>
-          
-        </div>
+        <label class="md-nav__link" for="__nav_6">
+          Electrical Engineering
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
-      <nav class="md-nav" aria-label="OSes" data-md-level="1">
+      <nav class="md-nav" aria-label="Electrical Engineering" data-md-level="1">
         <label class="md-nav__title" for="__nav_6">
           <span class="md-nav__icon md-icon"></span>
-          OSes
+          Electrical Engineering
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
-            
-          
-            
               
   
   
   
     <li class="md-nav__item">
-      <a href="../../os/linux/" class="md-nav__link">
-        Linux
+      <a href="../../ee/read/" class="md-nav__link">
+        Read
       </a>
     </li>
   
@@ -932,8 +1091,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../../os/macos/" class="md-nav__link">
-        MacOS
+      <a href="../../ee/watch/" class="md-nav__link">
+        Watch
       </a>
     </li>
   
@@ -946,8 +1105,8 @@
   
   
     <li class="md-nav__item">
-      <a href="../../os/windows/" class="md-nav__link">
-        Windows
+      <a href="../../ee/listen/" class="md-nav__link">
+        Listen
       </a>
     </li>
   
@@ -977,26 +1136,65 @@
       
         
           
-            
+        
+          
+        
           
         
       
       
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../../ee/">Electrical Engineering</a>
-          
-        </div>
+        <label class="md-nav__link" for="__nav_7">
+          3D Printing/CAD
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
-      <nav class="md-nav" aria-label="Electrical Engineering" data-md-level="1">
+      <nav class="md-nav" aria-label="3D Printing/CAD" data-md-level="1">
         <label class="md-nav__title" for="__nav_7">
           <span class="md-nav__icon md-icon"></span>
-          Electrical Engineering
+          3D Printing/CAD
         </label>
         <ul class="md-nav__list" data-md-scrollfix>
           
             
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3d/read/" class="md-nav__link">
+        Read
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3d/watch/" class="md-nav__link">
+        Watch
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../3d/listen/" class="md-nav__link">
+        Listen
+      </a>
+    </li>
+  
+
             
           
         </ul>
@@ -1022,61 +1220,16 @@
       
         
           
-            
-          
         
       
       
-        
-        
-        <div class="md-nav__link md-nav__link--index ">
-          <a href="../../3d/">3D Printing/CAD</a>
-          
-        </div>
-      
-      <nav class="md-nav" aria-label="3D Printing/CAD" data-md-level="1">
-        <label class="md-nav__title" for="__nav_8">
-          <span class="md-nav__icon md-icon"></span>
-          3D Printing/CAD
-        </label>
-        <ul class="md-nav__list" data-md-scrollfix>
-          
-            
-            
-          
-        </ul>
-      </nav>
-    </li>
-  
-
-    
-      
-      
-      
-
-  
-  
-  
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-      
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
-      
-      
-      
-        
-          
-        
-      
-      
-        <label class="md-nav__link" for="__nav_9">
+        <label class="md-nav__link" for="__nav_8">
           FAQ
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="FAQ" data-md-level="1">
-        <label class="md-nav__title" for="__nav_9">
+        <label class="md-nav__title" for="__nav_8">
           <span class="md-nav__icon md-icon"></span>
           FAQ
         </label>
@@ -1113,7 +1266,7 @@
     <li class="md-nav__item md-nav__item--nested">
       
       
-        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" >
       
       
       
@@ -1122,13 +1275,13 @@
         
       
       
-        <label class="md-nav__link" for="__nav_10">
+        <label class="md-nav__link" for="__nav_9">
           Changelog
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <nav class="md-nav" aria-label="Changelog" data-md-level="1">
-        <label class="md-nav__title" for="__nav_10">
+        <label class="md-nav__title" for="__nav_9">
           <span class="md-nav__icon md-icon"></span>
           Changelog
         </label>
@@ -1200,13 +1353,6 @@
         <li class="md-nav__item">
   <a href="#lookup-search" class="md-nav__link">
     Lookup / Search
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#connection-sysadmin" class="md-nav__link">
-    Connection / Sysadmin
   </a>
   
 </li>
@@ -1293,29 +1439,6 @@ Basically everything that solves a specific problem falls into this category. In
 <p>Reverse image search.</p>
 </li>
 </ul>
-<h2 id="connection-sysadmin">Connection / Sysadmin<a class="headerlink" href="#connection-sysadmin" title="Permanent link">&para;</a></h2>
-<ul>
-<li>
-<p><a href="https://www.speedtest.net/">SpeedTest.net</a></p>
-<p>De facto standard for quick bandwidth test.</p>
-</li>
-<li>
-<p><a href="https://www.speedguide.net/downloads.php">TCP Optimizer</a></p>
-<p><em>The TCP Optimizer is a free, easy Windows program that provides an intuitive interface for tuning and optimizing your Internet connection. There is no installation required, just download and run as administrator.</em></p>
-</li>
-<li>
-<p><a href="http://www.dslreports.com/speedtest">DSLReports</a></p>
-<p>A more comprehensive bandwidth test than SpeedTest.net</p>
-</li>
-<li>
-<p><a href="https://downdetector.com/">Downdetector</a></p>
-<p>Check any website or server status.</p>
-</li>
-<li>
-<p><a href="https://www.yougetsignal.com/">you get signal</a></p>
-<p>Port forwarding tester, WHOIS, reverse IP/Email/Phone number tool</p>
-</li>
-</ul>
 <h2 id="share">Share<a class="headerlink" href="#share" title="Permanent link">&para;</a></h2>
 <ul>
 <li>
@@ -1400,13 +1523,13 @@ Basically everything that solves a specific problem falls into this category. In
       
       
         
-        <a href="../../coding/" class="md-footer__link md-footer__link--next" aria-label="Next: Coding" rel="next">
+        <a href="../../coding/read/" class="md-footer__link md-footer__link--next" aria-label="Next: Read" rel="next">
           <div class="md-footer__title">
             <div class="md-ellipsis">
               <span class="md-footer__direction">
                 Next
               </span>
-              Coding
+              Read
             </div>
           </div>
           <div class="md-footer__button md-icon">
