@@ -52,33 +52,42 @@ theme:
 
 nav:
     - Home: index.md
-    - Learn:
-      - learn/index.md
-      - Read: learn/read.md
-      - Watch: learn/watch.md
-      - Podcasts: learn/podcasts.md
-      - Courses: learn/courses.md
-    - Tech: 
-      - tech/index.md
+    - Tech:
+      - Read: tech/read.md
+      - Watch: tech/watch.md
+      - Listen: tech/listen.md
+      - Courses: tech/courses.md
       - News: tech/news.md
       - Tools: tech/tools.md
     - Coding:
-      - coding/index.md
-      - Javascript: coding/js.md
-      - HTML: coding/html.md
-      - Python: coding/python.md
-    - InfoSec: 
-      - infosec/index.md
+      - Read: coding/read.md
+      - Watch: coding/watch.md
+      - Listen: coding/listen.md
+      - Courses: coding/courses.md
+      - Tools: coding/tools.md
+      - Languages:
+        - Javascript: coding/langs/js.md
+        - HTML: coding/langs/html.md
+        - Python: coding/langs/python.md
+    - InfoSec:
+      - Read: infosec/read.md
+      - Watch: infosec/watch.md
+      - Listen: infosec/listen.md
       - News: infosec/news.md
-    - OSes: 
-      - os/index.md
-      - Linux: os/linux.md
-      - MacOS: os/macos.md
-      - Windows: os/windows.md
-    - Electrical Engineering: 
-      - ee/index.md
-    - 3D Printing/CAD: 
-      - 3d/index.md
+    - SysAdmin:
+      - Read: sysadmin/read.md
+      - Watch: sysadmin/watch.md
+      - Listen: sysadmin/listen.md
+      - News: sysadmin/news.md
+      - Tools: sysadmin/tools.md
+    - Electrical Engineering:
+      - Read: ee/read.md
+      - Watch: ee/watch.md
+      - Listen: ee/listen.md
+    - 3D Printing/CAD:
+      - Read: 3d/read.md
+      - Watch: 3d/watch.md
+      - Listen: 3d/listen.md
     - FAQ:
       - faq.md
     - Changelog:

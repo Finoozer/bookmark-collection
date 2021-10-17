@@ -31,30 +31,6 @@ Basically everything that solves a specific problem falls into this category. In
 
     Reverse image search.
 
-## Connection / Sysadmin
-
--   [SpeedTest.net](https://www.speedtest.net/)
-
-    De facto standard for quick bandwidth test.
-
--   [TCP Optimizer](https://www.speedguide.net/downloads.php)
-
-    *The TCP Optimizer is a free, easy Windows program that provides an intuitive interface for tuning and optimizing your Internet connection. There is no installation required, just download and run as administrator.*
-
--   [DSLReports](http://www.dslreports.com/speedtest)
-
-    A more comprehensive bandwidth test than SpeedTest.net
-
--   [Downdetector](https://downdetector.com/)
-
-    Check any website or server status.
-
--   [you get signal](https://www.yougetsignal.com/)
-
-    Port forwarding tester, WHOIS, reverse IP/Email/Phone number tool
-
-    
-
 ## Share
 
 -   [CTRLV](https://ctrlv.link/)
