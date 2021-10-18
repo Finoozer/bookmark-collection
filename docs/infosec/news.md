@@ -12,3 +12,10 @@ InfoSec related news outlets and RSS feeds.
 
 ## RSS feeds
 
+- [YCombinator RSS](https://news.ycombinator.com/rss)
+- [BleepingComputer](https://www.bleepingcomputer.com/feed/)
+- [Schneier on Security](https://www.schneier.com/feed/atom/)
+- [Krebs on Security](https://krebsonsecurity.com/feed/)
+- [Exploit-DB Updates](https://www.exploit-db.com/rss.xml)
+- [Breaches](http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
+

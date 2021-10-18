@@ -24,4 +24,4 @@ hide:
 
 ## The ...
 
- - See [FAQ](https://Finoozer.github.io/bookmark-collection/faq)
+ - See [FAQ](faq.md)

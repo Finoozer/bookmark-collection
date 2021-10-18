@@ -14,7 +14,6 @@ Everything Python related.
 - [Neural Networks For Your Dog](https://www.gormanalysis.com/blog/neural-networks-for-your-dog/)
 - [Tim Golden's Python Stuff](http://timgolden.me.uk/python/)
 
-
 ## Tools
 
 ## Libraries
