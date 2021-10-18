@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 ---
+
 # Bookmark Hall
 
 ## The *why*

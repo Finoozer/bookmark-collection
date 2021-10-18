@@ -105,3 +105,6 @@ extra:
       link: https://github.com/Finoozer
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/_finoozer_/
+  analytics:
+    provider: google
+    property: UA-210491389-1

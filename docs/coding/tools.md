@@ -56,3 +56,9 @@
 
 - [XMPP](https://xmpp.org/)
 - [IETF](https://www.ietf.org/standards/)
+
+## Search
+
+- [SourceGraph](https://sourcegraph.com/search)
+
+    Search all open-source code using regex or full text search. Useful for finding code examples of XYZ library or function.
