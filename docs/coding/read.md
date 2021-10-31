@@ -7,6 +7,7 @@
 
 - [Case Types](https://chaseadams.io/posts/most-common-programming-case-types/)
 - [Agile Glossary](https://www.agilealliance.org/agile101/agile-glossary/)
+- [Design Patterns](https://refactoring.guru/design-patterns)
 
 
 ## Articles

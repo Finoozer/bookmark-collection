@@ -1,4 +1,6 @@
-## Practice
+## Web apps // Websites
+
+### Practice
 
 - [CodeWars](https://www.codewars.com/)
 
@@ -16,13 +18,13 @@
 
     Try *Clash of Code* mode - battle against your friends in problem solving tasks.
 
-## Inspiration
+### Inspiration
 
 - [Clone Wars](https://gourav.io/clone-wars)
 
     100+ open-source clones and alternatives of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube, etc.
 
-## Algorithms
+### Algorithms
 
 - [VisuAlgo](https://visualgo.net/en)
 
@@ -34,7 +36,7 @@
 
 - [List of algorithms](https://www.wikiwand.com/en/List_of_algorithms)
 
-## In-browser code execution
+### In-browser code execution
 
 - [glot.io](https://glot.io/)
 
@@ -44,7 +46,7 @@
 
     Similar to glot.io
 
-## Fonts
+### Fonts
 
 - [Google Fonts](https://fonts.google.com/)
 
@@ -52,13 +54,31 @@
 
 - [Discord Dev Portal](https://discord.com/developers/applications/)
 
-## Standards
+### Standards
 
 - [XMPP](https://xmpp.org/)
 - [IETF](https://www.ietf.org/standards/)
 
-## Search
+### Search
 
 - [SourceGraph](https://sourcegraph.com/search)
 
     Search all open-source code using regex or full text search. Useful for finding code examples of XYZ library or function.
+
+## Desktop Apps
+
+### IDEs // Editors
+
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+
+### API
+
+- [Postman](https://www.postman.com/)
+- [Insomnia](https://insomnia.rest/)
+
+### PDF viewers // editors
+
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)
+
+

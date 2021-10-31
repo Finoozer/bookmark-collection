@@ -4,6 +4,12 @@
 
     Cipher encryption / decryption / identifier.
 
+- [WHOIS History](https://osint.sh/whoishistory/)
+- [BugMeNot](http://bugmenot.com/)
+
+    Account sharing platform
+
+
 ## Software
 
 - [Re4son Kernel](https://re4son-kernel.com/re4son-pi-kernel/)
@@ -13,6 +19,10 @@
 - [DeepSound](http://jpinsoft.net/deepsound)
 
     *DeepSound is a steganography tool and audio converter that hides secret data into audio files. The application also enables you to extract secret files directly from audio files or audio CD tracks.*
+
+- [Sherloq](https://github.com/GuidoBartoli/sherloq)
+
+    *An open-source digital image forensic toolset*
 
 ## Cheat Sheets
 
