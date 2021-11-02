@@ -8,6 +8,9 @@
 
 ## Guides
 
+- [SECURITY EDUCATION COMPANION](https://sec.eff.org/)
+- [SURVEILLANCE SELF-DEFENSE](https://ssd.eff.org/)
+
 - [Null Byte](https://null-byte.wonderhowto.com/)
 
     News, tools and guides for pentesting

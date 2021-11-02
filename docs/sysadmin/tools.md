@@ -52,3 +52,14 @@
 ### Other
 
 - [Derek Taylor's Dotfiles](https://gitlab.com/dwt1/dotfiles)
+- [TheFuck](https://github.com/nvbn/thefuck)
+
+    *Magnificent app which corrects your previous console command.*
+
+- [HTTPie](https://github.com/httpie/httpie)
+
+    *Modern, user-friendly command-line HTTP client for the API era.*
+
+- [Glances](https://github.com/nicolargo/glances)
+
+    Top/Htop alternative

@@ -18,4 +18,11 @@ InfoSec related news outlets and RSS feeds.
 - [Krebs on Security](https://krebsonsecurity.com/feed/)
 - [Exploit-DB Updates](https://www.exploit-db.com/rss.xml)
 - [Breaches](http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
+- [r/Privacy](https://www.reddit.com/r/privacy/.rss)
 
+## Political
+
+- [AllSides](https://www.allsides.com/unbiased-balanced-news)
+- [AP News](https://apnews.com/)
+- [C-Span](https://www.c-span.org/)
+- [Newsy](https://www.newsy.com/)

@@ -13,8 +13,25 @@ Everything Python related.
 - [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)
 - [Neural Networks For Your Dog](https://www.gormanalysis.com/blog/neural-networks-for-your-dog/)
 - [Tim Golden's Python Stuff](http://timgolden.me.uk/python/)
+- [WTF Python](https://github.com/satwikkansal/wtfpython)
 
-## Tools
+    [...] *fun project attempting to explain what exactly is happening under the hood for some counter-intuitive snippets and lesser-known features in Python*
 
-## Libraries
+- [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
+- [Data Structures & Algos](https://github.com/keon/algorithms)
+
+## Libraries // Tools
+
+- [Awesome Python](https://github.com/vinta/awesome-python)
+
+    *A curated list of awesome Python frameworks, libraries, software and resources*
+
+- [Newspaper3k](https://github.com/codelucas/newspaper)
+
+    *Article scraping & curation*
+
+- [Black](https://github.com/psf/black)
+
+    *The uncompromising Python code formatter*
+
 

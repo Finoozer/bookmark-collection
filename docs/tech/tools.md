@@ -11,6 +11,10 @@ Basically everything that solves a specific problem falls into this category. In
 
     Quick ASCII to Binary to Hexadecimal to BASE64 to Decimal to ROT13 to URL Encode converter
 
+- [OmniCalc](https://www.omnicalculator.com/)
+
+    Similar to RapidTables
+
 ### Math
 
 -   [FXSolver](https://www.fxsolver.com/)
@@ -30,6 +34,10 @@ Basically everything that solves a specific problem falls into this category. In
 -   [TinEye](https://tineye.com/)
 
     Reverse image search.
+
+- [QRScanner](https://qrscanneronline.com/)
+
+    Online QR Scanner
 
 ## Share
 
@@ -51,9 +59,13 @@ Basically everything that solves a specific problem falls into this category. In
 
 ## Gaming
 
--   [SteamDB](https://steamdb.info/)
+- [SteamDB](https://steamdb.info/)
 
     Everything you need to know about Steam. Game stats, server stats, prices, charts, patch notes.
+
+- [IsThereAnyDeal](https://isthereanydeal.com/)
+
+    Game price/sale tracker
 
 ## Graphics
 
@@ -66,17 +78,54 @@ Basically everything that solves a specific problem falls into this category. In
 
     Free icons in PNG, SVG, EPS, PSD and BASE 64 formats
 
+- [Photopea](https://www.photopea.com/)
+
+    Free Adobe Photoshop alternative (in-browser)
+
+- [RemoveBG](https://www.remove.bg/)
+
+    Auto-remove background from images
+
+- [Unscreen](https://www.unscreen.com/)
+
+    Auto-remove background from videos
+
+## Fonts
+
+- [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+
+    *Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more*
+
+
+## Audio
+
+- [Midomi](https://www.midomi.com/)
+
+    In-browser alternative for Shazam (song recognition)
+
+## Finance
+
+- [SkyScanner](https://www.skyscanner.com)
+
+    Find cheapest flights
+
+- [CamelCamelCamel](https://camelcamelcamel.com/)
+
+    Amazon price tracker
+
 ## Other
 
--   [TinyPNG](https://tinypng.com/)
+- [TinyPNG](https://tinypng.com/)
 
     *TinyPNG uses smart lossy compression techniques to reduce the file size of your WEBP, JPEG and PNG files.*
 
--   [CheckShortURL](https://checkshorturl.com/)
+- [CheckShortURL](https://checkshorturl.com/)
 
     *CheckShortURL is an expand link facility: it allows you to retrieve the original URL from a shortened link before clicking on it and visiting the destination.*
 
 - [PDF Escape](https://www.pdfescape.com/windows/)
 
     *Free online PDF editor & form filler*
+
+- [Windows Eval Programme](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
 
