@@ -19,6 +19,7 @@ InfoSec related news outlets and RSS feeds.
 - [Exploit-DB Updates](https://www.exploit-db.com/rss.xml)
 - [Breaches](http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
 - [r/Privacy](https://www.reddit.com/r/privacy/.rss)
+- [Raidforums](https://raidforums.com/syndication.php?fid=153&amp;limit=15)
 
 ## Political
 

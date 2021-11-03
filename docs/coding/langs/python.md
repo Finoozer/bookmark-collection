@@ -15,7 +15,7 @@ Everything Python related.
 - [Tim Golden's Python Stuff](http://timgolden.me.uk/python/)
 - [WTF Python](https://github.com/satwikkansal/wtfpython)
 
-    [...] *fun project attempting to explain what exactly is happening under the hood for some counter-intuitive snippets and lesser-known features in Python*
+    *fun project attempting to explain what exactly is happening under the hood for some counter-intuitive snippets and lesser-known features in Python*
 
 - [Python Cheatsheet](https://github.com/gto76/python-cheatsheet)
 - [Data Structures & Algos](https://github.com/keon/algorithms)

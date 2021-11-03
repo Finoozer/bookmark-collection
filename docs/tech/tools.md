@@ -90,6 +90,10 @@ Basically everything that solves a specific problem falls into this category. In
 
     Auto-remove background from videos
 
+- [VertexShare](https://vertexshare.com/)
+
+    AI upscaler, colorizer, bg eraser, etc.
+
 ## Fonts
 
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
@@ -128,4 +132,8 @@ Basically everything that solves a specific problem falls into this category. In
     *Free online PDF editor & form filler*
 
 - [Windows Eval Programme](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise)
+- [GetRSSFeed](https://getrssfeed.com/)
+
+    *Paste the Apple Podcast / Google Podcast / SoundCloud / Website URL into the field below to retrieve the Podcast RSS feed URL*
+    
 

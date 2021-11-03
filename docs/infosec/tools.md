@@ -12,8 +12,20 @@
 
     Usenet search engine
 
+- [Usenet Archives](https://www.usenetarchives.com/index.php)
+
+    Similar to Binzb
+
+- [BinSearch](https://www.binsearch.info/)
+
+    Similar to Binzb
+
 - [DetectMyBrowser](https://detectmybrowser.com/)
 - [EFF Cover Your Tracks](https://coveryourtracks.eff.org/)
+
+    Similar to DetectMyBrowser
+
+- [BrowserAudit](https://browseraudit.com/)
 
     Similar to DetectMyBrowser
 
@@ -21,16 +33,50 @@
 
     Check Email reputation
 
+- [Expired Domains](https://www.expireddomains.net/deleted-domains/?#listing)
+
+    *Expired Domain Name Search Engine*
+
 ## Browser Extensions
 
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
 
-## Communication
+## Communication // Messaging
+
+- [AnonAddy](https://anonaddy.com/)
+
+    Anonymous Email Forwarding
+
+- [Firefox Relay](https://relay.firefox.com/)
+
+    Similar to AnonAddy
 
 - [Twilio](https://www.twilio.com/)
 
     VOIP
+
+- [OperationPrivacy VOIP](https://voip.operationprivacy.com/voip/)
+
+    Free in-browser VOIP
+
+- [Element](https://element.io/get-started)
+
+    Matrix client
+
+- [Signal](https://signal.org/)
+
+    Secure comms; requires phone number to work
+
+- [Session](https://getsession.org/)
+
+    Privacy & Security oriented messaging app 
+
+## Share
+
+- [Tresorit](https://send.tresorit.com/)
+
+    Secure file sharing - upto 5 GB
 
 
 ## OSINT
@@ -52,6 +98,30 @@
 
     Search 350+ mil of indexed people, addrs, phone nums
 
+- [Fagan Finder](https://www.faganfinder.com/)
+
+    All search engines/tools in one place
+
+- [Small Town Papers](http://www.stparchive.com/landing.php)
+
+    Archive of papers of small US towns
+
+- [WayBack Machine](https://archive.org/web/)
+
+    Webpage archive - search website snapshots
+
+- [Sowdust's Facebook Search](https://sowdust.github.io/fb-search/)
+- [Vehicle History](https://www.vehiclehistory.com/license-plate-search)
+
+    Vehicle License Plate Search
+
+- [crt.sh](https://crt.sh/)
+
+    SSL Certificate Search 
+
+- [Apeiron](https://apeiron.io/tools)
+
+    Phone info lookup
 
 ## Breaches // Leaks
 
@@ -87,6 +157,18 @@
 - [Photon](https://github.com/s0md3v/Photon)
 
     Fast web crawler
+
+- [WPScan](https://github.com/wpscanteam/wpscan)
+
+    Wordpress vulnerability scanner
+
+- [LinkBait](https://github.com/AmIJesse/LinkBait)
+
+    *PHP file used to store browser and connection information on anyone who loads the webpage*
+
+- [Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
+
+    *Searches Hash APIs to crack your hash quickly If hash is not found, automatically pipes into HashCat*
 
 ## Cheat Sheets
 
