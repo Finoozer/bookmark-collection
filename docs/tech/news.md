@@ -11,6 +11,8 @@ Tech related news outlets and RSS feeds.
 - [The Hacker News](http://thehackernews.com/feeds/posts/default)
 - [r/technology - Top Today](https://www.reddit.com/r/technology/top.rss?t=day)
 
-    Use `r/{{subreddit}}/top.rss?t={{day | month | year}}`
+    Use `reddit.com/r/{{subreddit}}/top.rss?t={{day | month | year}}`
+    
+    Or `reddit.com/search.rss?q={{search+terms}}&amp;sort={{new | top | hot | popular}}`
 
 

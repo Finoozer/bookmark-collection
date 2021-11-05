@@ -29,6 +29,22 @@
 
     Similar to DetectMyBrowser
 
+- [AmIUnique](https://amiunique.org/)
+
+    Similar to DetectMyBrowser
+
+- [IPLeak](https://ipleak.net/)
+
+    Similar to DetectMyBrowser
+
+- [DeviceInfo.me](https://www.deviceinfo.me/)
+
+    Similar to DetectMyBrowser, but much more comprehensive
+
+- [WebSocketTest](https://websocketstest.com/)
+
+    Websocket Test
+
 - [EmailRep](https://emailrep.io/)
 
     Check Email reputation
@@ -37,10 +53,44 @@
 
     *Expired Domain Name Search Engine*
 
+- [LeakIX](https://leakix.net/)
+
+    Similar to exploit-db
+
+- [ThisPersonDoesNotExist](https://thispersondoesnotexist.com/)
+
+    Generate fake selfies
+
+- [DarkSearch](https://darksearch.io/)
+
+    Onion search engine with clearnet frontend
+
+- [Email Privacy Tester](https://www.emailprivacytester.com/)
+
+    Check your email security/privacy
+
+- [DNSLeakTest](https://www.dnsleaktest.com/)
+
+    DNS Leak Test
+
+- [EasyCounter](https://www.easycounter.com/)
+
+    Website info; daily visits, SEO stats, domain data
+
+- [CanaryTokens](http://canarytokens.org/generate)
+
+    Generate canary/trip tokens
+
+- [dehash.me](https://dehash.me/)
+
+    Hash encryptor/decryptor
+
 ## Browser Extensions
 
 - [HTTPS Everywhere](https://www.eff.org/https-everywhere)
 - [Privacy Badger](https://privacybadger.org/)
+- [Port Authority](https://github.com/ACK-J/Port_Authority)
+- [DecentralEyes](https://decentraleyes.org/)
 
 ## Communication // Messaging
 
@@ -49,6 +99,14 @@
     Anonymous Email Forwarding
 
 - [Firefox Relay](https://relay.firefox.com/)
+
+    Similar to AnonAddy
+
+- [SimpleLogin](https://simplelogin.io/)
+
+    Similar to AnonAddy
+
+- [33Mail](https://33mail.com/)
 
     Similar to AnonAddy
 
@@ -72,16 +130,39 @@
 
     Privacy & Security oriented messaging app 
 
+- [HexChat](https://hexchat.github.io/)
+
+    FOSS & Cross-platform IRC client
+
+- [WebSDR](http://www.websdr.org/)
+
+    Use radio recievers from around the world and tune them to your needs
+
 ## Share
 
 - [Tresorit](https://send.tresorit.com/)
 
     Secure file sharing - upto 5 GB
 
+## Lists
+
+    Lists containing software solutions related to privacy, infosec, opsec or similar. There is a slight overlap between these lists and FBC.
+
+- [PrivacyTools](https://www.privacytools.io/)
+
+    List of FOSS apps with emphasis on privacy/anonymity
+
+- [PrivacyGuides](https://privacyguides.org/)
+
+    Similar to PrivacyTools
+
 
 ## OSINT
 
-- [ScoutTel](https://www.scout.tel/phone-number-lookup)
+- [UserHunt](https://userhunt.co/)
+
+    Search social media accounts by username
+    
 - [OSINT.sh](https://osint.sh/)
 - [Host.io](https://host.io/)
 - [KartaView](http://kartaview.org/)
@@ -123,11 +204,55 @@
 
     Phone info lookup
 
+- [MailCat](https://github.com/sharsil/mailcat)
+
+    *Find existing email addresses by nickname using API/SMTP checking methods without user notification*
+
+- [Shodan](https://www.shodan.io/explore)
+
+    IoT search engine; find open webcams, databases etc.
+
+- [OperationPrivacy](https://dashboard.operationprivacy.com/)
+
+    Web app that guides you through data removal, opsec, credit freeze, etc.
+
+- [Nitter](https://nitter.net/)
+
+    Twitter search engine
+
+- [judyrecords](https://www.judyrecords.com/)
+
+    Search US Court cases
+
+- [Scout.tel](https://www.scout.tel/phone-number-lookup)
+
+    US or Canadian phone number lookup
+
+- [Whoseno](https://www.whoseno.com/)
+
+    Similar to Scout.tel; type `get_token(0)` into console to skip timer
+
+- [New FB Search](https://gist.github.com/nemec/2ba8afa589032f20e2d6509512381114)
+
+    Gist with Facebook's search query explanation 
+
+- [RocketReach](https://rocketreach.co/)
+
+    People search
+- [US Staff](https://bearsofficialsstore.com/)
+
+    Employee data of companies across US
+
+- [SearchMyBio](https://www.searchmy.bio/)
+
+    Instagram bio search
+
 ## Breaches // Leaks
 
 - [BreachDirectory](https://breachdirectory.org/)
 - [RaidForums](https://raidforums.com/)
 - [Cit0day Email Lookup](https://breach.myosint.com/)
+- [BlackKite](https://blackkite.com/data-breaches-caused-by-third-parties/)
 
 
 ## Software
@@ -170,6 +295,26 @@
 
     *Searches Hash APIs to crack your hash quickly If hash is not found, automatically pipes into HashCat*
 
+- [KeePassXC](https://keepassxc.org/)
+
+    Offline password manager
+
+- [BitWarden](https://bitwarden.com/)
+
+    Online password manager
+
+- [VSCodium](https://vscodium.com/)
+
+    VSCode without telemetry
+
+- [yttool](https://github.com/nlitsme/youtube_tool)
+
+    *Tool for extracting comments or subtitles from youtube video's*
+
+- [Nexfil](https://github.com/thewhiteh4t/nexfil)
+
+    *OSINT tool for finding profiles by username*
+
 ## Cheat Sheets
 
 - [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/bundle.zip) (*direct download*)
@@ -179,3 +324,5 @@
 - [HackerWarehouse](https://hackerwarehouse.com/)
 - [Maltronics](https://maltronics.com/)
 - [Lab401](https://lab401.com/)
+- [System76](https://system76.com/)
+- [Hak5](https://hak5.org/)

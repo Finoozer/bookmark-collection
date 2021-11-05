@@ -21,6 +21,10 @@
 
 - [ODROID-C2 Pentest Drop Box Build Instructions](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGFmdGhhY2suY29tfGRhZnRoYWNrfGd4OjQ0YWNkOGU5OTBmMGY2YmU)
 
+- [BrowserLeaks](https://browserleaks.com/)
+
+    Look at what your browser shares with visited websites 
+    
 ## Other
 
 - [OWASP Top 10](https://owasp.org/Top10/)

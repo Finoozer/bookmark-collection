@@ -34,4 +34,8 @@ Everything Python related.
 
     *The uncompromising Python code formatter*
 
+- [IG Private API](https://github.com/ping/instagram_private_api)
+
+    *A Python library to access Instagram's private API.*
+
 

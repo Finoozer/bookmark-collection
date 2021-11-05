@@ -65,6 +65,10 @@
 
     Search all open-source code using regex or full text search. Useful for finding code examples of XYZ library or function.
 
+- [Grep.app](https://grep.app/)
+
+    Similar to SourceGraph; seems to have less repos indexed, but is faster
+
 ## Desktop Apps
 
 ### IDEs // Editors
@@ -72,7 +76,7 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Notepad++](https://notepad-plus-plus.org/downloads/)
 
-### API
+### API testing
 
 - [Postman](https://www.postman.com/)
 - [Insomnia](https://insomnia.rest/)
@@ -81,4 +85,14 @@
 
 - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)
 
+## Code snippets
 
+- [Nemec blog](https://blog.nem.ec/code-snippets/)
+
+    Various python, bash, sql snippets
+
+## APIs
+
+- [NeutrinoAPI](https://www.neutrinoapi.com/)
+
+    General purpose API; collection of various tools

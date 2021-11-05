@@ -80,6 +80,10 @@
 
     FOSS RSS/Atom reader
 
+- [Objective See](https://objective-see.com/products.html)
+
+    MacOS Security suite (collection of FOSS security apps)
+
 ## Cross-platform
 
 ### Software
@@ -91,6 +95,14 @@
 - [OSBoxes](https://www.osboxes.org/)
 
     Virtual Box and VMWare images, including Android x86 OSes
+
+- [LinuxVMImages](https://www.linuxvmimages.com/)
+
+    Similar to OSBoxes
+
+- [OsmAnd](https://osmand.net/)
+
+    Offline mobile apps and navigation
 
 ## Android
 
@@ -105,3 +117,21 @@
 - [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing&amp;hl=en_US)
 
     Network Scanner
+
+- [BombitUP](https://www.bombitup.net/)
+
+    SMS spammer
+
+- [Airguard](https://github.com/seemoo-lab/AirGuard)
+
+    *Protect yourself from being tracked by AirTags*
+
+## iOS
+
+- [LockDownPrivacy](https://lockdownprivacy.com/)
+
+    *Block trackers, ads, and badware*
+
+- [Firefox Focus](https://apps.apple.com/app/id1055677337)
+
+    *Dedicated privacy browser with tracking protection and content blocking*

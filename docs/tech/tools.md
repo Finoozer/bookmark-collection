@@ -135,5 +135,11 @@ Basically everything that solves a specific problem falls into this category. In
 - [GetRSSFeed](https://getrssfeed.com/)
 
     *Paste the Apple Podcast / Google Podcast / SoundCloud / Website URL into the field below to retrieve the Podcast RSS feed URL*
-    
 
+- [Satellites.pro](https://satellites.pro/)
+
+    Choose between map providers, type of map, and show forecast
+
+- [YTComment Finder](https://ytcomment.kmcat.uk/)
+
+    Search comments under a specific video
