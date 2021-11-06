@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 - Why did you ... ?
 
     To put all of my bookmarks and files (which I don't care to make public) in one place. I can also quickly reference this site to anyone who asks me for source of XYZ.

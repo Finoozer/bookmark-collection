@@ -96,3 +96,13 @@
 - [NeutrinoAPI](https://www.neutrinoapi.com/)
 
     General purpose API; collection of various tools
+
+## Github
+
+- [Shields](https://shields.io/)
+
+    Generate markdown badges
+
+- [ReadMe Generator](https://github.com/kefranabg/readme-md-generator)
+
+    Automatic README generator

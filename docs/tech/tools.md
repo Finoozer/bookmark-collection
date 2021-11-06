@@ -94,6 +94,8 @@ Basically everything that solves a specific problem falls into this category. In
 
     AI upscaler, colorizer, bg eraser, etc.
 
+- [SimpleIcons](https://simpleicons.org/)
+
 ## Fonts
 
 - [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)

@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 !!! note
     Most of the definitions are taken from blogs or dictionaries. Sources are always provided after a paragraph in an upper index.  
 
