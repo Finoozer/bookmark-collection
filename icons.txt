@@ -1,0 +1,13 @@
+:material-security:                                     Security
+:material-drama-masks:                                  Privacy
+:material-code-json:{ .purple }                         Coding
+:material-penguin:{ .yellow }                           Has a Linux app
+:material-apple:                                        Has a MacOS app
+:material-apple-ios:                                    Has an iOS app
+:material-microsoft-windows:{ .blue }                   Has a Windows app
+:material-android:{ .green }                            Has an Android app
+:octicons-browser-16:                                   Runs in browser
+:fontawesome-brands-redhat:{ .red }                     Red Team
+:fontawesome-brands-redhat:{ .blue }                    Blue Team
+:material-open-source-initiative:{ .thick .orange }     Open-source service or application
+:fontawesome-solid-dollar-sign:{ .darker-green }        Paid service or application

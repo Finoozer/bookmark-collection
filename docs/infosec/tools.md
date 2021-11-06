@@ -327,3 +327,5 @@
 - [Lab401](https://lab401.com/)
 - [System76](https://system76.com/)
 - [Hak5](https://hak5.org/)
+
+--8<-- "includes/abbreviations.md"

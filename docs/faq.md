@@ -12,12 +12,13 @@
 
 - Can I also add my links ?
 
-    Yes, you can. Every page has an edit icon in the upper right corner. But please; think about where and what you want to add. 
+    Yes, you can! Every page has an edit icon in the upper right corner. But please; think about where and what you want to add. 
 
-- I've found a broken link !
+- I've found a broken link
 
     Please use the edit button to delete or change the link to a working one.
 
 - I have a question about XYZ
 
-    [Twitter DM](https://twitter.com/finoozer)
+    You can contact me through [Twitter DM](https://twitter.com/finoozer), Wire (@finoozer) or [Session](https://drive.google.com/file/d/1-8FbW1phd9E3ONv2IjbDs-NTdU_teTAB/view?usp=sharing)
+
