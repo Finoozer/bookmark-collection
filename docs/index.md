@@ -5,7 +5,6 @@ hide:
 
 # Bookmark Hall
 
-
 ### Glossary
 
 The link descriptions sometimes use abbreviations, jargon or technical terminology (aka *techspeak*). Hovering over a dotted word reveals the full word of an acronym, for jargon and techspeak see [Glossary](glossary.md)
@@ -14,21 +13,21 @@ The link descriptions sometimes use abbreviations, jargon or technical terminolo
 
 Some of the links on FBC can fall into multiple categories. That's where icons come in. Icons specify all related topics of a link. Table below shows what each icon represents
 
-|                 Icon                 |            Description             |
-| :----------------------------------: | :--------------------------------: |
-|         :material-security:          |              Security              |
-|        :material-drama-masks:        |              Privacy               |
-|         :material-code-json:{ .purple }         |               Coding               |
-|          :material-penguin:{ .yellow }          |          Has a Linux app           |
-|           :material-apple:           |          Has a MacOS app           |
-|         :material-apple-ios:         |           Has an iOS app           |
-|     :material-microsoft-windows:{ .blue }     |         Has a Windows app          |
-|          :material-android:{ .green }          |         Has an Android app         |
-|        :octicons-browser-16:         |          Runs in browser           |
-| :fontawesome-brands-redhat:{ .red }  |              [Red Team](glossary.md#red-team)              |
-| :fontawesome-brands-redhat:{ .blue } |           [Blue Team](glossary.md#blue-team)           |
-|  :material-open-source-initiative:{ .thick .orange }   | Open-source service or application[^1] |
-|   :fontawesome-solid-dollar-sign:{ .darker-green }    |    Paid service or application[^2]     |
+|                        Icon                         |              Description               |
+| :-------------------------------------------------: | :------------------------------------: |
+|                 :material-security:                 |                Security                |
+|               :material-drama-masks:                |                Privacy                 |
+|           :material-code-json:{ .purple }           |                 Coding                 |
+|            :material-penguin:{ .yellow }            |            Has a Linux app             |
+|                  :material-apple:                   |            Has a MacOS app             |
+|                :material-apple-ios:                 |             Has an iOS app             |
+|        :material-microsoft-windows:{ .blue }        |           Has a Windows app            |
+|            :material-android:{ .green }             |           Has an Android app           |
+|                :octicons-browser-16:                |            Runs in browser             |
+|         :fontawesome-brands-redhat:{ .red }         |    [Red Team](glossary.md#red-team)    |
+|        :fontawesome-brands-redhat:{ .blue }         |   [Blue Team](glossary.md#blue-team)   |
+| :material-open-source-initiative:{ .thick .orange } | Open-source service or application[^1] |
+|  :fontawesome-solid-dollar-sign:{ .darker-green }   |    Paid service or application[^2]     |
 
 ### Emphasis, sources and other notes
 
