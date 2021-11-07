@@ -1,13 +1,10 @@
-Collection of tools for calculations, conversions, lookup, checking stats, sharing info, etc.
-Basically everything that solves a specific problem falls into this category. Includes downloadable or web-based content.
-
 ## Conversions / Calculations
 
--   [RapidTables](https://www.rapidtables.com/)
+- [RapidTables](https://www.rapidtables.com/)
 
     All conversions, calculations and tables you can think of. 
 
--   [ASCII to Hex](https://www.asciitohex.com/)
+- [ASCII to Hex](https://www.asciitohex.com/)
 
     Quick ASCII to Binary to Hexadecimal to BASE64 to Decimal to ROT13 to URL Encode converter
 

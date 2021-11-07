@@ -48,10 +48,10 @@ Finoozer's Bookmark Collection (FBC) is a curated list of my [clearnet](glossary
 [![made-with-mkdocs](https://img.shields.io/badge/Made%20with-MkDocs-blue)](https://www.mkdocs.org/)
 [![material](https://img.shields.io/badge/MkDocs%20Theme-Material-red)](https://squidfunk.github.io/mkdocs-material/)
 
-![VER](https://img.shields.io/github/v/release/Finoozer/bookmark-collection)
-![COMMIT](https://img.shields.io/github/last-commit/Finoozer/bookmark-collection)
-![STARS](https://img.shields.io/github/stars/Finoozer/bookmark-collection?style=social)
-![FOLLOWERS](https://img.shields.io/github/followers/Finoozer?style=social)
+[![VER](https://img.shields.io/github/v/release/Finoozer/bookmark-collection)]()
+[![COMMIT](https://img.shields.io/github/last-commit/Finoozer/bookmark-collection)]()
+[![STARS](https://img.shields.io/github/stars/Finoozer/bookmark-collection?style=social)]()
+[![FOLLOWERS](https://img.shields.io/github/followers/Finoozer?style=social)]()
 
 ### Donate
 

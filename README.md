@@ -37,8 +37,27 @@ If you like this project, you can show your appreciation by donating a small amo
 -   [x] add podcasts
 -   [x] FAQ
 -   [x] rewrite the landing page
+
+`v0.1.0`
+
 -   [ ] add Windows software
 -   [ ] add YT channels
--   [ ] add descriptions
--   [ ] add abbreviations
+
+`v0.2.0`
+
+-   [ ] add all descriptions
+-   [ ] add all icons
+
+`v0.3.0`
+
+-   [ ] add abbreviations & glossary
+
+`v0.4.0`
+
 -   [ ] add all newsletter posts
+
+`v0.5.0`
+
+-   [ ] check/reformat all sections
+
+`v0.6.0` - Pre-Release
