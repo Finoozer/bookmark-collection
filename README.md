@@ -38,26 +38,26 @@ If you like this project, you can show your appreciation by donating a small amo
 -   [x] FAQ
 -   [x] rewrite the landing page
 
-`v0.1.0`
+[![v0.1.0](https://img.shields.io/badge/release-v0.1.0-green)](https://github.com/Finoozer/bookmark-collection/releases/tag/v0.1.0)
 
 -   [ ] add Windows software
 -   [ ] add YT channels
 
-`v0.2.0`
+[![v0.2.0](https://img.shields.io/badge/release-v0.2.0-blue)]()
 
 -   [ ] add all descriptions
 -   [ ] add all icons
 
-`v0.3.0`
+[![v0.3.0](https://img.shields.io/badge/release-v0.3.0-red)]()
 
 -   [ ] add abbreviations & glossary
 
-`v0.4.0`
+[![v0.4.0](https://img.shields.io/badge/release-v0.4.0-red)]()
 
 -   [ ] add all newsletter posts
 
-`v0.5.0`
+[![v0.5.0](https://img.shields.io/badge/release-v0.5.0-red)]()
 
 -   [ ] check/reformat all sections
 
-`v0.6.0` - Pre-Release
+[![v0.6.0](https://img.shields.io/badge/release-v0.6.0-red)]() - Pre-Release
