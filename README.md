@@ -50,7 +50,7 @@ If you like this project, you can show your appreciation by donating a small amo
 
 [![v0.3.0](https://img.shields.io/badge/release-v0.3.0-red)]()
 
--   [ ] add abbreviations & glossary
+-   [ ] add abbreviations & concepts
 
 [![v0.4.0](https://img.shields.io/badge/release-v0.4.0-red)]()
 

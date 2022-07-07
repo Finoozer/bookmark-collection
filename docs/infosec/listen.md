@@ -2,7 +2,7 @@
 - Darknet Diaries
     - [Website](https://darknetdiaries.com/)
     - [Spotify](https://spoti.fi/darknetdiaries)
-    - [Apple Podcasts](http://apple.co/darknetdiaries)
+    - [Apple Podcasts](https://apple.co/darknetdiaries)
     - [RSS](https://feeds.megaphone.fm/darknetdiaries)
     - [Direct Download](https://darknetdiaries.com/downloadall/)
 

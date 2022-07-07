@@ -4,7 +4,7 @@
 
     Cipher encryption / decryption / identifier.
 
-- [BugMeNot](http://bugmenot.com/)
+- [BugMeNot](http://bugmenot.com/) (not HTTPS)
 
     Account sharing platform
 
@@ -77,7 +77,7 @@
 
     Website info; daily visits, SEO stats, domain data
 
-- [CanaryTokens](http://canarytokens.org/generate)
+- [CanaryTokens](https://canarytokens.org/generate)
 
     Generate canary/trip tokens
 
@@ -134,15 +134,15 @@
 
     FOSS & Cross-platform IRC client
 
-- [WebSDR](http://www.websdr.org/)
+- [WebSDR](http://www.websdr.org/) (not HTTPS)
 
-    Use radio recievers from around the world and tune them to your needs
+    Use radio receivers from around the world and tune them to your needs
 
 ## Share
 
 - [Tresorit](https://send.tresorit.com/)
 
-    Secure file sharing - upto 5 GB
+    Secure file sharing - up to 5 GB
 
 ## Lists
 
@@ -165,7 +165,7 @@
     
 - [OSINT.sh](https://osint.sh/)
 - [Host.io](https://host.io/)
-- [KartaView](http://kartaview.org/)
+- [KartaView](https://kartaview.org/)
 - [Bankrupt11](https://bankrupt11.com/)
 - [OCCRP Aleph](https://aleph.occrp.org/)
 
@@ -177,13 +177,13 @@
 
 - [LocateFamily](https://www.locatefamily.com/A/index.html)
 
-    Search 350+ mil of indexed people, addrs, phone nums
+    Search 350+ mil of indexed people, addresses, phone numbers
 
 - [Fagan Finder](https://www.faganfinder.com/)
 
     All search engines/tools in one place
 
-- [Small Town Papers](http://www.stparchive.com/landing.php)
+- [Small Town Papers](http://www.stparchive.com/landing.php) (not HTTPS)
 
     Archive of papers of small US towns
 
@@ -262,7 +262,7 @@
 
     Kali Linux for Raspberry Pi
 
-- [DeepSound](http://jpinsoft.net/deepsound)
+- [DeepSound](http://jpinsoft.net/deepsound) (not HTTPS)
 
     *DeepSound is a steganography tool and audio converter that hides secret data into audio files. The application also enables you to extract secret files directly from audio files or audio CD tracks.*
 
