@@ -5,13 +5,9 @@ hide:
 
 # Bookmark Hall
 
-### Glossary
-
-Hovering over a dotted word reveals the full form of an acronym or description of a technical expression.
-
 ### Icons
 
-Links on FBC may have icons indicating some sort of undesired property. Color of these icons usually represents severity of the issue (viz table bellow). Hovering over these icons will bring up a pop-up with an explanation. I.e. [:material-alert:{ .yellow }]("Heavy freemium model. Not many features available in the free tier.").
+Links may have icons indicating some sort of undesired property. Color of these icons usually represents severity of the issue (viz table bellow). Hovering over these icons will bring up a pop-up with an explanation. I.e. :material-alert:{ .yellow title="Heavy freemium model. Not many features available in the free tier."}.
 
 | Icon color | Severity  |
 | ---------- | --------- |
@@ -53,8 +49,3 @@ If you like this project, you can show your appreciation by donating a small amo
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/finoozer)
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/Finoozer)
-
-\*[dotted]:
-[^1]: May include Freemium products, if too many features are hidden from the free tier
-
---8<-- "includes/abbreviations.md"
