@@ -42,7 +42,7 @@ theme:
     - search.suggest
     - header.autohide
   icon:
-    logo: material/library
+    logo: octicons/book-16
   palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default

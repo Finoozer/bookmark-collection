@@ -1,32 +1,52 @@
 .green {
-    color: #2ecc71;
+  color: #2ecc71;
 }
 
 .darker-green {
-    color: #27ae60;
+  color: #27ae60;
 }
 
 .red {
-    color: #e74c3c;
+  color: #e74c3c;
 }
 
 .blue {
-    color: #3498db;
+  color: #3498db;
 }
 
 .yellow {
-    color: #f1c40f;
+  color: #f1c40f;
 }
 
 .orange {
-    color: #e67e22;
+  color: #e67e22;
 }
 
 .purple {
-    color: #e056fd;
+  color: #e056fd;
 }
 
 .thick {
-    stroke: currentColor;
-    stroke-width: 5%;
+  stroke: currentColor;
+  stroke-width: 5%;
+}
+
+@keyframes beating {
+  0%,
+  20%,
+  40% {
+    transform: scale(1);
+    filter: none;
+  }
+  60% {
+    transform: scale(1.1);
+    filter: drop-shadow(0px 0px 0.5px currentColor);
+  }
+  80% {
+    transform: scale(1);
+    filter: none;
+  }
+}
+.beat {
+  animation: beating 2000ms infinite;
 }

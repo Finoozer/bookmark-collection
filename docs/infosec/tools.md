@@ -146,8 +146,6 @@
 
 ## Lists
 
-    Lists containing software solutions related to privacy, infosec, opsec or similar. There is a slight overlap between these lists and FBC.
-
 - [PrivacyTools](https://www.privacytools.io/)
 
     List of FOSS apps with emphasis on privacy/anonymity
