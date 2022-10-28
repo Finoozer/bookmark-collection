@@ -12,7 +12,7 @@ Everything Python related.
 - [Python NumPy For Your Grandma](https://www.gormanalysis.com/blog/python-numpy-for-your-grandma-2-6-basic-math-on-arrays/)
 - [Python Pandas For Your Grandpa](https://www.gormanalysis.com/blog/python-pandas-for-your-grandpa/)
 - [Neural Networks For Your Dog](https://www.gormanalysis.com/blog/neural-networks-for-your-dog/)
-- [Tim Golden's Python Stuff](http://timgolden.me.uk/python/)
+- [Tim Golden's Python Stuff](http://timgolden.me.uk/python/) (not HTTPS)
 - [WTF Python](https://github.com/satwikkansal/wtfpython)
 
     *fun project attempting to explain what exactly is happening under the hood for some counter-intuitive snippets and lesser-known features in Python*
@@ -37,5 +37,9 @@ Everything Python related.
 - [IG Private API](https://github.com/ping/instagram_private_api)
 
     *A Python library to access Instagram's private API.*
+
+- [Click](https://palletsprojects.com/p/click/)
+
+    *Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary.*
 
 

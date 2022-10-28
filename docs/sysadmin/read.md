@@ -8,7 +8,7 @@
 
 ### Guides
 
-- [The Linux Information Project](http://linfo.org/)
+- [The Linux Information Project](http://linfo.org/) (not HTTPS)
 
     Everything about Linux in one place
 

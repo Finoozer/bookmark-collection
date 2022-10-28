@@ -18,7 +18,7 @@ InfoSec related news outlets and RSS feeds.
 - [Schneier on Security](https://www.schneier.com/feed/atom/)
 - [Krebs on Security](https://krebsonsecurity.com/feed/)
 - [Exploit-DB Updates](https://www.exploit-db.com/rss.xml)
-- [Breaches](http://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
+- [Breaches](https://feeds.feedburner.com/HaveIBeenPwnedLatestBreaches)
 - [r/Privacy](https://www.reddit.com/r/privacy/.rss)
 - [Raidforums](https://raidforums.com/syndication.php?fid=153&amp;limit=15)
 

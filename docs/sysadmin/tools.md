@@ -16,7 +16,7 @@
 
     *The TCP Optimizer is a free, easy Windows program that provides an intuitive interface for tuning and optimizing your Internet connection. There is no installation required, just download and run as administrator.*
 
-- [DSLReports](http://www.dslreports.com/speedtest)
+- [DSLReports](https://www.dslreports.com/speedtest)
 
     A more comprehensive bandwidth test than SpeedTest.net
 
